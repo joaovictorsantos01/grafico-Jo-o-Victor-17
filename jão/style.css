@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    margin: 4rem;
+
+}
+body{
+    background: black;
+    display: flex;
+    border: solid darkgray;
+    padding: 30px;
+    border-radius: 20px;
+}
+#meuGrafico{
+  max-width: 500px;
+  max-height: 500px;
+
+}
+
+h1{
+    color: white
+}
